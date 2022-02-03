@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "homie-l9jt",
+  "private_key_id": "5cb61a83acc4a9c14c0c8b6df9258bfff098725e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmrfcQ64zVbb9l\nQrH81B5QpFvHezSK8le4o/Bf0+SzSZ88FgUUfrQsjyqpEjy7+P12sY/Y9+OLi1cc\nKnrny1XLbIneRJgJxjivSP7kUJ8sVqdrIlf4VbxSYO/KpKbnMh7uhyeyzHl6vSVx\nwByl1Xyr7GD+J1afylcfh+prQWPZ5USlLfwagBgm3DRmTl17aqIzjPUGyeoMi1SX\nyRUhwyG78eIrX0i5aWldqa4QiZNmmGzFj6hiF7wIoHKIEtiKkucD9PumwyJ5MkfX\nUXsd2uTaez1CvDj0SVz+fxAJ975n0SBJsF+rvlkREOMikoTW79cmRX88UMVBzQIb\ne5pBlFxrAgMBAAECggEAM4IKGi/4fxIhteyk7TEtxxTridswkwmuAxCiXTKxd5g2\nPY6+diVrj2OUtte8bghVZ4MapV2Bc2OVgU49Wfkzo6AAgO/ongikBsMDhdHGRqDm\nrsxXrBXukvSC1bgJHeQWu/aHVZErrzrZYewQzkyJcOWk2ZWVht60CrnpPsjfzvsy\nhvYj9UAHD039UIFLlIH2cntVkBu2fvOlpuYhKUd2xYls41vch+0MNMM3B2rElfDx\nBSN8Aa1l4VpuZ/JD5UVjufTls5QlTIg5JCgwYw9DRZEFsq2+PY8SMcTvRVmq1wEa\nC9zonCHvBptbWie5BH2rwIcL3r8u5+o/SqMMgKJWxQKBgQDqgfjYFvSqcZGhChi3\n340M3JLtaNBTUCsY1wmkHJqWzfHqtgrR6OW2F8ii+nJZ3rHMmqspn+6GzpuhFiu6\nMKq9ZJ2XMH61vG+nPYdzqlztWKGSEFX0cZ74VPSWAIztWzzT1wP04ez0DoHa8Wei\niX3RrpkRLBli27FE8ID7Oet6twKBgQC19JtIVmPdz9Kqyg2qCRWjSgXkaG7Yp01y\nzST+ar9v33Rfh5K+rY5vyCiT+vXsa/PcVB6E5k60eXngtBX6g+HRL4qqkOcO0RrP\nnkdW3IT1h/omuQiFYJBrl1smhjeDWKmlzBLKze6N00w1fsJ/TNLZpZ+/H2P3Fjmu\ndLZpac1H7QKBgQCgXctfcqtUF6AAIZhvvZeGkRyE7+Vu4+bk8MDuEoWA1Us3N9BE\nZeEY2kDheyVR4eFyyt5785u5Yna4/SFgDUHljHXcW1R7UWaFVqVXasxrnu22picx\np7WPmwE7xxqYgokhUOuqvgk9iOIyaF13oFCDYMPaI28k1JnwTAvYQW6QFwKBgGUO\nsPvxN1Anr9q5k/M/Tmw9nZ4pPn9IFGTReV1wjlilI+42zxLmM/jzk031EYc4wd06\nPyUTAN2NplpdyuMzQkU7gWmQRzRcgOaVAwxEN/hiiFXfaNMjObL4AmEYJFbn9Hko\nKbvHulm85FPFzmKDmYvWSC4PUicWifzRx8ouQBxVAoGBAOe9YWp63r0blY/XJ9vI\ntyEIC3BVnUJcWxJyJZHt0CIjIBev/z/j99915h+LGBnHLtRWrREKTxRQyk3Kecto\n+LHCMVbxdGsmlBpmkApPODBqccyBDC7F55Gu/8y5PkwgFdt4VHISFA4pZdq7Cq+G\nvdEMY77ARg0vIoDKTkFhtM32\n-----END PRIVATE KEY-----\n",
+  "client_email": "repo-git@homie-l9jt.iam.gserviceaccount.com",
+  "client_id": "117113123637953999238",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/repo-git%40homie-l9jt.iam.gserviceaccount.com"
+}
