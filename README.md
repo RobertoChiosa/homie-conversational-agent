@@ -1,4 +1,4 @@
-# Homie: a smart conversational agent
+# 💡 Homie: a smart conversational agent
 
 In the last few years smart appliances have become part of our life, our house has become smarter and always connected.
 However, the interaction with those devices is still difficult because of the different kind of interfaces and not
