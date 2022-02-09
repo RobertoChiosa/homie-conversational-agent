@@ -16,11 +16,14 @@ Processing, it uses [Dialogflow ES](https://dialogflow.cloud.google.com) agent, 
 Tested in Chrome 57+, Firefox 70+, and Safari 10.1+. Please, notice that speech-to-text capability does not work in
 Safari and Firefox.
 
-To get started with the project, import the `homie.zip` into Dialogflow, generate a _service key_ from Google (in JSON),
-and download it into the root of the project as `homie-key.json`.
-
 # ▶ Usage
-In order to test the app, just run the flask server (you need to install the requirements) via
+
+To get started with the project, import the file `Homie.zip` into Dialogflow, generate a _service key_ from Google (in
+JSON), and download it into the root of the project as `homie-key.json`.
+
+Create a new Python `venv` installing the required packages listed in `requirements.txt`
+In order to test the app, just run the flask server through the command:
+
 ```
 python app.py
 ```
