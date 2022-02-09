@@ -1,6 +1,6 @@
+import dialogflow_v2 as dialogflow
 from flask import Flask, request, render_template
 from google.oauth2 import service_account
-import dialogflow_v2 as dialogflow
 
 app = Flask(__name__)
 

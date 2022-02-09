@@ -6,7 +6,6 @@ always interoperable. Homie helps users to interact with all smart-home applianc
 
 ![alt text](static/hero.png)
 
-
 This project was born in 2022 in the framework of the PhD course "Human AI Interaction" at Politecnico di Torino. This
 repository contains the Python code based on the [dialogflow-weather](https://github.com/luigidr/dialogflow-weather)
 example.
@@ -19,3 +18,10 @@ Safari and Firefox.
 
 To get started with the project, import the `homie.zip` into Dialogflow, generate a _service key_ from Google (in JSON),
 and download it into the root of the project as `homie-key.json`.
+
+
+# Contributors
+* [Roberto Chiosa](https://github.com/RobertoChiosa)
+* Sofia Cretaio
+* [Simone Monaco](https://github.com/simone7monaco)
+* [Lorenzo Vaiani](https://github.com/VaianiLorenzo)
