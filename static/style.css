@@ -11,20 +11,36 @@ html, body, input.textarea {
   display: flex;
   align-items: flex-start;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  top:20px;
 }
 
+.header {
+    width: 85vw;
+    display: flex;
+    justify-content: space-between;
+    height: 27px;
+    top:0;
+    background-color: white;
+    position: fixed;
+    padding-top: 20px;
+}
+}
+}
 .container {
   width: 80%;
   display: flex;
   flex-direction: column;
+  margin-top: 37px;
 }
 
 .chat {
   list-style: none;
   background: none;
   margin: 0;
-  padding: 0 0 50px 0;
-  margin-top: 10px;
+  padding: 0 0 155px 0;
+  margin-top: 51px;
   margin-bottom: 10px;
 }
 
@@ -96,7 +112,7 @@ html, body, input.textarea {
 }
 
 input.textarea {
-  font-size: 0.9rem;
+  border: none;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -108,9 +124,17 @@ input.textarea {
   padding-right: 55px;
 }
 
+.hbutt{
+  height: 124px;
+  bottom: 7%;
+  position: absolute;
+  left: 18%;
+  height: 124px;
+  position: fixed;
+}
 #rec {
   position: fixed;
-  display: inline-block;
+  display: none;
   bottom: 8px;
   right: 25px;
   width: 35px;
