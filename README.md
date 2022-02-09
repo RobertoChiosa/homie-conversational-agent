@@ -1,9 +1,27 @@
-# Sample of a Web-based Voice User Interface (in Python)
+# 💡 Homie: a smart conversational agent
 
-This repository is an example for getting started with voice user interfaces.
+In the last few years smart appliances have become part of our life, our house has become smarter and always connected.
+However, the interaction with those devices is still difficult because of the different kind of interfaces and not
+always interoperable. Homie helps users to interact with all smart-home appliances
 
-It uses the Web Speech API (experimental) for speech-to-text and text-to-speech operations. For Natural Language Processing, it uses [Dialogflow ES](https://dialogflow.cloud.google.com) agent, included as a `.zip` file.
+![alt text](static/hero.png)
 
-Tested in Chrome 57+, Firefox 70+, and Safari 10.1+. Please, notice that speech-to-text capability does not work in Safari and Firefox.
+This project was born in 2022 in the framework of the PhD course "Human AI Interaction" at Politecnico di Torino. This
+repository contains the Python code based on the [dialogflow-weather](https://github.com/luigidr/dialogflow-weather)
+example.
 
-To get started with the project, import the `WeatherAgent.zip` into Dialogflow, generate a _service key_ from Google (in JSON), and download it into the root of the project as `client-secret.json`.
+It uses the Web Speech API (experimental) for speech-to-text and text-to-speech operations. For Natural Language
+Processing, it uses [Dialogflow ES](https://dialogflow.cloud.google.com) agent, included as a `.zip` file.
+
+Tested in Chrome 57+, Firefox 70+, and Safari 10.1+. Please, notice that speech-to-text capability does not work in
+Safari and Firefox.
+
+To get started with the project, import the `homie.zip` into Dialogflow, generate a _service key_ from Google (in JSON),
+and download it into the root of the project as `homie-key.json`.
+
+
+# 👥 Contributors
+* [Roberto Chiosa](https://github.com/RobertoChiosa)
+* Sofia Cretaio
+* [Simone Monaco](https://github.com/simone7monaco)
+* [Lorenzo Vaiani](https://github.com/VaianiLorenzo)
