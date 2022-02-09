@@ -20,7 +20,7 @@ To get started with the project, import the `homie.zip` into Dialogflow, generat
 and download it into the root of the project as `homie-key.json`.
 
 
-# Contributors
+# 👥 Contributors
 * [Roberto Chiosa](https://github.com/RobertoChiosa)
 * Sofia Cretaio
 * [Simone Monaco](https://github.com/simone7monaco)
