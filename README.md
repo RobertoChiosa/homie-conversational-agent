@@ -19,6 +19,11 @@ Safari and Firefox.
 To get started with the project, import the `homie.zip` into Dialogflow, generate a _service key_ from Google (in JSON),
 and download it into the root of the project as `homie-key.json`.
 
+# ▶ Usage
+In order to test the app, just run the flask server (you need to install the requirements) via
+```
+python app.py
+```
 
 # 👥 Contributors
 * [Roberto Chiosa](https://github.com/RobertoChiosa)
